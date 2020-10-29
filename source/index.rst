@@ -12,9 +12,9 @@ In this Experimental Physics 3 course, we will dive into to basic experiments an
 * Geometrical Optics
 * Wave Optics
 * Electromagnetic Waves
-* Matter waves and Quantum Mechanics
+* Matter Waves and Quantum Mechanics
 
-The fields of optics and quantum mechanics are nowadays very active research areas with a  dynamically devloping areas of optical technolgies, high resolution microscopy and quantum information. All this builds on the fundations that are tackled in this course.
+The fields of optics and quantum mechanics are nowadays very active research areas with a dynamically developing areas of optical technolgies, high resolution microscopy and quantum information. All this builds on the fundations that are tackled in this course.
 
 
 .. toctree::
